@@ -3,7 +3,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media0.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=6c09b952xu254ui7al00hfkwqof5fqprco66spuq4tkfew7m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 50px></picture> **About me**
 
 <br>
 
