@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi, I'm Dani</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dqnyyx&label=Profile%20views&color=7f2b99&style=for-the-badge" alt="dqnyyx" /> </p>
+
 ## <picture><img src="https://media0.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=6c09b952xu254ui7al00hfkwqof5fqprco66spuq4tkfew7m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50px"></picture> **About me**
 
 <br>
