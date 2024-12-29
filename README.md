@@ -1,8 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Dani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
-
 ## <picture><img src = "https://media0.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=6c09b952xu254ui7al00hfkwqof5fqprco66spuq4tkfew7m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 50px></picture> **About me**
 
 <br>
@@ -12,6 +10,13 @@
 - Currently learning Web Development by Self
 - Developing a Virtual Assistant on my own
 - I’m currently open for a new job opportunity
+<br>
+
+## **Discord profile**
+
+<br>
+
+![Example](https://discord-profile-starcea.paring.moe/discord/840949684670824489?)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
