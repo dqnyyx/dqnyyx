@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dqnyyx&label=Profile%20views&color=7f2b99&style=for-the-badge" alt="dqnyyx" /> </p>
 
-## <picture><img src="https://media0.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=6c09b952xu254ui7al00hfkwqof5fqprco66spuq4tkfew7m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50px"></picture> **About me**
+## <picture><img src="https://media0.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=6c09b952xu254ui7al00hfkwqof5fqprco66spuq4tkfew7m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25px"></picture> **About me**
 
 <br>
 
@@ -14,18 +14,18 @@
 
 <br>
 
-## **Discord Profile**
+## <picture><img src="https://media1.giphy.com/media/sginTqoCKSbPId94ih/giphy.gif?cid=6c09b952yrrvhqthykrj44iepo5atrlpid6weozw8duj2r75&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25px"></picture> **Discord Profile**
 
 <br>
 
-![dqnyyx](https://discord-profile-starcea.paring.moe/discord/840949684670824489?)  
+[![Discord Presence](https://lanyard.cnrad.dev/api/840949684670824489?theme=light&bg=e9d0f5&idleMessage=Learning%20more%20about%20everything&showDisplayName=true&ignoreAppId=)](https://discord.com/users/840949684670824489)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<br><br>
+<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -77,6 +77,6 @@
 
 </div>
 
-<br><br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <br>
