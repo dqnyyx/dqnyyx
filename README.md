@@ -18,7 +18,7 @@
 
 <br>
 
-![Example](https://discord-profile-starcea.paring.moe/discord/840949684670824489?)  
+![dqnyyx](https://discord-profile-starcea.paring.moe/discord/840949684670824489?)  
 
 <br><br>
 
